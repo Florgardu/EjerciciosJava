@@ -1,0 +1,19 @@
+package ejercicio6;
+
+public enum MESDELANIO {
+	
+	
+	ENERO,
+	FEBRERO,
+	MARZO,
+	ABRIL,
+	MAYO,
+	JUNIO,
+	JULIO,
+	AGOSTO,
+	SEPTIEMBRE,
+	OCTUBRE,
+	NOVIEMBRE,
+	DICIEMBRE,
+
+}
